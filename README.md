@@ -10,7 +10,7 @@ Welcome to my portfolio for the **Application Development (SECP3123)** course.
 
 | Category | Repository / Resource Link | Primary Tech Stack |
 | :--- | :--- | :--- |
-| **🚀 Group Project** | [View Project Directory]((https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System)) | Flutter, Firebase BaaS, Dart|
+| **🚀 Group Project** | [View Project Directory]([https://github.com/leeyinshen0818/TVETMARA-Student-Attendance-Management-System]) | Flutter, Firebase BaaS, Dart|
 
 ---
 
